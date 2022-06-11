@@ -86,7 +86,7 @@ dt.predict([[5,6]])
 <img width="414" alt="img 5" src="https://user-images.githubusercontent.com/94165103/173192617-1ef44e88-a731-4098-b6fb-22abb29e9869.png">
 <img width="371" alt="img 6" src="https://user-images.githubusercontent.com/94165103/173192622-5ec3e5fb-58f2-4903-a458-872a0f1ed67f.png">
 
-<img width="453" alt="img 7" src="https://user-images.githubusercontent.com/94165103/173192626-f28e7f29-a516-4f53-a474-55e496f43ae1.png">
+
 
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
